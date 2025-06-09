@@ -1,0 +1,34 @@
+{
+	"format_version": 2,
+	"metadata": {
+		"authors": [
+			"Arctic Shark"
+		]
+	},
+	"header": {
+		"name": "End Dragon Drops",
+		"description": "Subscribe to Arctic Shark",
+		"min_engine_version": [
+			1,
+			19,
+			20
+		],
+		"uuid": "3e14f827-2be2-4b80-82a5-bba481819ec8",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "9720bdb7-0980-4407-a7c0-49747e800fda",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	]
+}
